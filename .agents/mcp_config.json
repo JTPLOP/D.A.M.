@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "remote-composio": {
+      "serverUrl": "https://connect.composio.dev/mcp",
+      "headers": {
+        "x-consumer-api-key": ""
+
+      }
+    }
+  }
+}

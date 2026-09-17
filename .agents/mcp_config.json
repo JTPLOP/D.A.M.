@@ -3,7 +3,7 @@
     "remote-composio": {
       "serverUrl": "https://connect.composio.dev/mcp",
       "headers": {
-        "x-consumer-api-key": ""
+        "x-consumer-api-key": "ck_zFxpzgKZmhwjGx6CWI7O"
 
       }
     }
